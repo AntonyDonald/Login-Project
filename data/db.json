@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "antony",
+      "password": "6"
+    }
+  ],
+  "drafted": [
+    {
+      "name": "dfssf",
+      "age": "sdfsdf",
+      "phone": "sdfsdf",
+      "address": "fsdfs",
+      "id": 1
+    }
+  ]
+}
